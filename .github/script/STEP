@@ -1,1 +1,8 @@
-1
+import code
+
+
+dictionary = {"serik":42, "me":22}
+
+for key in dictionary:
+    print(key)
+
